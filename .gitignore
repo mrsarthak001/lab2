@@ -1,3 +1,5 @@
 #creating gitignore file
 
 *.png
+
+!file2.png
